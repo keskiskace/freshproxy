@@ -7,7 +7,6 @@ https://t.me/proxy_keskiskace
 download links:  
 
 https://raw.githubusercontent.com/keskiskace/freshproxy/main/all_http.txt  
-
 https://raw.githubusercontent.com/keskiskace/freshproxy/main/all_https.txt  
 https://raw.githubusercontent.com/keskiskace/freshproxy/main/all_socks_4.txt  
 https://raw.githubusercontent.com/keskiskace/freshproxy/main/all_socks_5.txt  
